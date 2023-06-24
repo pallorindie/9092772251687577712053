@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "709392715323",
+    "project_id": "money-a40bd",
+    "storage_bucket": "money-a40bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709392715323:android:9ac34a641f7603a118961e",
+        "android_client_info": {
+          "package_name": "com.easymoneyonline.easymoneyonlinewithai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709392715323-cnu7d69pfq3unmees2gfmqb58ia5ki5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG0u14Psrglb9MgoNUH6rDAxv1joOWZXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709392715323-cnu7d69pfq3unmees2gfmqb58ia5ki5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709392715323:android:c5e3fdcffa67c39918961e",
+        "android_client_info": {
+          "package_name": "com.moneyonline.secretfreelancingmastery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709392715323-cnu7d69pfq3unmees2gfmqb58ia5ki5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG0u14Psrglb9MgoNUH6rDAxv1joOWZXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709392715323-cnu7d69pfq3unmees2gfmqb58ia5ki5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709392715323:android:4c51705f956c6d7d18961e",
+        "android_client_info": {
+          "package_name": "com.secretmoney.secretmakemoneyonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709392715323-cnu7d69pfq3unmees2gfmqb58ia5ki5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG0u14Psrglb9MgoNUH6rDAxv1joOWZXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709392715323-cnu7d69pfq3unmees2gfmqb58ia5ki5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709392715323:android:5bf88ac2b7b2eefa18961e",
+        "android_client_info": {
+          "package_name": "com.stocktrading.marketstocktradingcourse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709392715323-cnu7d69pfq3unmees2gfmqb58ia5ki5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG0u14Psrglb9MgoNUH6rDAxv1joOWZXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709392715323-cnu7d69pfq3unmees2gfmqb58ia5ki5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
